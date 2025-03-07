@@ -14,9 +14,9 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Install Pandoc
-      uses: docker://pandoc/core:latest
+      run: sudo apt-get update && sudo apt-get install -y pandoc
     - name: Install TeX Live
-      run: sudo apt-get install texlive-xetex
+      run: sudo apt-get install -y texlive-xetex
     - name: Convert Markdown to PDF
       run: pandoc README.md -o chadadams_resume.pdf
     - name: Convert Markdown to Word
@@ -24,7 +24,7 @@ jobs:
     - name: Convert Markdown to RTF
       run: pandoc README.md -o chadadams_resume.rtf
     - name: Upload Documents
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v2
       with:
         name: resume
         path: |
