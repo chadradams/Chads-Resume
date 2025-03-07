@@ -22,11 +22,11 @@ jobs:
     - name: Install TeX Live
       run: sudo apt-get install -y texlive-xetex
     - name: Convert Markdown to PDF
-      run: pandoc README.md -o chadadams_resume.pdf
+      run: pandoc README.md -o chadadams_resume.pdf --pdf-engine=xelatex -V mainfont="Garamond" -V fontsize=12pt
     - name: Convert Markdown to Word
-      run: pandoc README.md -o chadadams_resume.docx
+      run: pandoc README.md -o chadadams_resume.docx -V mainfont="Garamond" -V  fontsize=12pt
     - name: Convert Markdown to RTF
-      run: pandoc README.md -o chadadams_resume.rtf
+      run: pandoc README.md -o chadadams_resume.rtf -V mainfont="Garamond" -V  fontsize=12pt
     - name: Commit and Push Changes
       run: |
         git config --global user.name 'Chad Adams[bot]'
