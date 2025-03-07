@@ -129,3 +129,4 @@ Accomplished web development professional with 18 years of experience in full-st
 
 * Learning Python Data Visualization (2014)
 * Mastering JavaScript High Performance (2015)
+
