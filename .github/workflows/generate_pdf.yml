@@ -1,0 +1,23 @@
+name: Generate PDF Resume
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Install dependencies
+      run: sudo apt-get install pandoc texlive-xetex
+    - name: Convert Markdown to PDF
+      run: pandoc README.md -o chadadams_resume.pdf
+    - name: Upload PDF
+      uses: actions/upload-artifact@v2
+      with:
+        name: resume
+        path: chadadams_resume.pdf
