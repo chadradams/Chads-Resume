@@ -1,12 +1,10 @@
-name: Generate PDF Resume
+name: Generate Resume Formats
 
 on:
   push:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
-
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
@@ -19,8 +17,15 @@ jobs:
       run: sudo apt-get install pandoc texlive-xetex
     - name: Convert Markdown to PDF
       run: pandoc README.md -o chadadams_resume.pdf
-    - name: Upload PDF
+    - name: Convert Markdown to Word
+      run: pandoc README.md -o chadadams_resume.docx
+    - name: Convert Markdown to RTF
+      run: pandoc README.md -o chadadams_resume.rtf
+    - name: Upload Documents
       uses: actions/upload-artifact@v2
       with:
         name: resume
-        path: chadadams_resume.pdf
+        path: |
+          chadadams_resume.pdf
+          chadadams_resume.docx
+          chadadams_resume.rtf
