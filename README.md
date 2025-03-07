@@ -5,12 +5,12 @@
 **Phone:** (816) 808-5475  
 **Email:** chadradams@outlook.com  
 **LinkedIn:** linkedin.com/in/chadradams  
-**Blog:** chadadams.com
+**Portfolio:** chadadams.com
 
 ---
 
 ## Professional Summary
-Accomplished web development professional with 14+ years of experience in full-stack development, UX design, and AI integration. Demonstrated success leading development teams, architecting scalable web applications, and delivering exceptional user experiences for enterprise clients. Proven expertise in JavaScript, HTML5, CSS3, React, Angular, and modern development frameworks. Strong background in consulting environments with experience managing client relationships and delivering solutions that exceed expectations.
+Accomplished web development professional with 18 years of experience in full-stack development, UX design, and AI integration. Demonstrated success leading development teams, architecting scalable web applications, and delivering exceptional user experiences for enterprise clients. Proven expertise in JavaScript, HTML5, CSS3, React, Angular, and modern development frameworks. Strong background in consulting environments with experience managing client relationships and delivering solutions that exceed expectations.
 
 ---
 
