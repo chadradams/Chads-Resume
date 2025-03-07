@@ -19,22 +19,14 @@ jobs:
         token: ${{ secrets.ACTIONS_PAT }}
     - name: Install Pandoc
       run: sudo apt-get update && sudo apt-get install -y pandoc
-    - name: Install TeX Live Dependencies
-      run: sudo apt-get install -y texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra
     - name: Install TeX Live
       run: sudo apt-get install -y texlive-xetex
-    - name: Install Fontconfig
-      run: sudo apt-get install -y fontconfig
-    - name: Install Garamond Font
-      run: |
-        mkdir -p ~/.fonts
-        wget -O ~/.fonts/Garamond.ttf
     - name: Convert Markdown to PDF
-      run: pandoc README.md -o chadadams_resume.pdf --pdf-engine=xelatex -V mainfont="Garamond" -V fontsize=12pt
+      run: pandoc README.md -o chadadams_resume.pdf --pdf-engine=xelatex -V mainfont="Times New Roman" -V fontsize=12pt
     - name: Convert Markdown to Word
-      run: pandoc README.md -o chadadams_resume.docx -V mainfont="Garamond" -V  fontsize=12pt
+      run: pandoc README.md -o chadadams_resume.docx -V mainfont="Times New Roman" -V  fontsize=12pt
     - name: Convert Markdown to RTF
-      run: pandoc README.md -o chadadams_resume.rtf -V mainfont="Garamond" -V  fontsize=12pt
+      run: pandoc README.md -o chadadams_resume.rtf -V mainfont="Times New Roman" -V  fontsize=12pt
     - name: Commit and Push Changes
       run: |
         git config --global user.name 'Chad Adams[bot]'
