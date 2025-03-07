@@ -5,7 +5,7 @@
 **Phone:** (816) 808-5475  
 **Email:** chadradams@outlook.com  
 **LinkedIn:** linkedin.com/in/chadradams  
-**Portfolio:** chadadams.com
+**Blog:** chadadams.com
 
 ---
 
