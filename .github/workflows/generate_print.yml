@@ -22,7 +22,7 @@ jobs:
     - name: Convert Markdown to RTF
       run: pandoc README.md -o chadadams_resume.rtf
     - name: Upload Documents
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v2
       with:
         name: resume
         path: |
