@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - name: Install Pandoc
       uses: docker://pandoc/core:latest
     - name: Install TeX Live
@@ -24,7 +24,7 @@ jobs:
     - name: Convert Markdown to RTF
       run: pandoc README.md -o chadadams_resume.rtf
     - name: Upload Documents
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: resume
         path: |
