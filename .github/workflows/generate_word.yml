@@ -1,0 +1,23 @@
+name: Generate Word Resume
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Install dependencies
+      run: sudo apt-get install pandoc
+    - name: Convert Markdown to Word
+      run: pandoc README.md -o chadadams_resume.docx
+    - name: Upload Word Document
+      uses: actions/upload-artifact@v2
+      with:
+        name: resume
+        path: chadadams_resume.docx
