@@ -127,5 +127,5 @@ Accomplished web development professional with 18 years of experience in full-st
 
 ## Publications
 
-* Learning Python Data Visualization (2023)
-* Mastering JavaScript High Performance (2021)
+* Learning Python Data Visualization (2014)
+* Mastering JavaScript High Performance (2015)
