@@ -117,11 +117,13 @@ Accomplished web development professional with 18 years of experience in full-st
 
 ## Certifications
 
-* Programming in HTML5 with JavaScript and CSS3 Specialist
+* Part 107 FAA sUAS Certificated Remote Pilot and Commercial Operator
+* Azure AI Engineer Associate
+* Azure Developer Associate
+* Microsoft Certified: Azure Fundamentals
 * Microsoft Certified: Power Platform Fundamentals
+* Microsoft Certified: Dynamics 365 Fundamentals
 * Microsoft Change Agent: AI Usage Policy Nonprofit Advisor 2024
-* Microsoft Global Hackathon 2024 Participant
-* Part 107 sUAS Certificated Remote Pilot and Commercial Operator
 
 ---
 
