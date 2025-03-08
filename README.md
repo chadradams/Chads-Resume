@@ -119,7 +119,7 @@ Accomplished web development professional with 18 years of experience in full-st
 
 * Part 107 FAA sUAS Certificated Remote Pilot and Commercial Operator
 * Azure AI Engineer Associate
-* Azure Developer Associate
+* Azure Developer Associate 
 * Microsoft Certified: Azure Fundamentals
 * Microsoft Certified: Power Platform Fundamentals
 * Microsoft Certified: Dynamics 365 Fundamentals
