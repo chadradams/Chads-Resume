@@ -1,0 +1,13 @@
+# This is a CODEOWNERS file.
+# Lines starting with '#' are comments.
+# Each line is a file pattern followed by one or more owners.
+
+# Specify the default code owner for the entire repository
+* @default-owner chadradams
+
+# Specify code owners for specific directories
+# /docs/ @docs-owner
+# /src/ @src-owner
+
+# Specify code owners for specific files
+# README.md @readme-owner
