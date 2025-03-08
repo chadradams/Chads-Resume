@@ -33,8 +33,6 @@ jobs:
       run: pandoc README.md -o chadadams_resume.pdf --pdf-engine=xelatex -V mainfont="EB Garamond" -V fontsize=12pt
     - name: Convert Markdown to Word
       run: pandoc README.md -o chadadams_resume.docx -V mainfont="EB Garamond" -V  fontsize=12pt
-    - name: Convert Markdown to RTF
-      run: pandoc README.md -o chadadams_resume.rtf -V mainfont="EB Garamond" -V  fontsize=12pt
     - name: Commit and Push Changes
       run: |
         git config --global user.name 'Chad Adams[bot]'
@@ -50,4 +48,3 @@ jobs:
         path: |
           chadadams_resume.pdf
           chadadams_resume.docx
-          chadadams_resume.rtf
