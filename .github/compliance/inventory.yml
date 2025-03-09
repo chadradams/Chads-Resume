@@ -1,0 +1,9 @@
+inventory:
+- source: DirectOwners
+  items:
+  - id: chadradams@outlook.com
+    name: Chad Adams
+    email: chadradams@outlook.com
+    github: chadradams
+    linkedIn: https://www.linkedin.com/in/chadradams/
+  isProduction: false
