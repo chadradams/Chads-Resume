@@ -1,13 +1,12 @@
-# This is a CODEOWNERS file.
-# Lines starting with '#' are comments.
-# Each line is a file pattern followed by one or more owners.
+##############################################################
+#
+# List of approvers/reviewers for this repo.
+#
+##############################################################
+#
+# Learn about CODEOWNERS file format: 
+#  https://help.github.com/en/articles/about-code-owners
+#
 
-# Specify the default code owner for the entire repository
-* @default-owner chadradams
-
-# Specify code owners for specific directories
-# /docs/ @docs-owner
-# /src/ @src-owner
-
-# Specify code owners for specific files
-# README.md @readme-owner
+# These owners will be the default owners for everything in the repo.
+* @chadradams
