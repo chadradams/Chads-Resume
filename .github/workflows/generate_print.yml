@@ -33,14 +33,6 @@ jobs:
       run: pandoc README.md -o chadadams_resume.pdf --pdf-engine=xelatex -V mainfont="EB Garamond" -V fontsize=12pt
     - name: Convert Markdown to Word
       run: pandoc README.md -o chadadams_resume.docx -V mainfont="EB Garamond" -V  fontsize=12pt
-    - name: Commit and Push Changes
-      run: |
-        git config --global user.name 'Chad Adams[bot]'
-        git config --global user.email 'chadradams@users.noreply.github.com'
-        git add chadadams_resume.pdf chadadams_resume.docx
-        git commit -m 'Update resume formats'
-        git pull --rebase origin ${{ github.head_ref }} || (git rebase --abort && echo "Rebase failed, aborting" && exit 1)
-        git push origin HEAD:${{ github.head_ref }}
     - name: Upload Documents
       uses: actions/upload-artifact@v4
       with:
@@ -49,3 +41,11 @@ jobs:
         path: |
           chadadams_resume.pdf
           chadadams_resume.docx
+    - name: Upload PDF to GitHub Releases
+      uses: softprops/action-gh-release@v1
+      with:
+        files: chadadams_resume.pdf chadadams_resume.docx
+        tag_name: latest
+        name: Resume
+      env:
+        GITHUB_TOKEN: ${{ secrets.ACTIONS_PAT }}
