@@ -30,8 +30,8 @@ Accomplished web development professional with 18 years of experience in full-st
 
 ## Technical Skills
 
-**Languages:** JavaScript, HTML5, CSS3, Python, TypeScript, C#, Swift UI, Kotlin  
-**Frameworks & Libraries:** React, Angular, Node.js, Fast API, Flask, LangChain, Langgraph, Semantic Kernel, AutoGen  
+**Languages:** JavaScript, HTML5, CSS3, Python, TypeScript, C#, SwiftUI, Kotlin  
+**Frameworks & Libraries:** React, Angular, Node.js, FastAPI, Flask, LangChain, Langgraph, Semantic Kernel, AutoGen  
 **Tools & Platforms:** Git, Azure, AWS, CI/CD, Jenkins, JIRA, Confluence, Docker, Mural, GitHub, Azure DevOps, Visual Studio, Visual Studio Code, XCode, Android Developer Studio  
 **Methodologies:** Agile, Scrum, Kanban, DevOps, Test-Driven Development, Unit Testing, Ideation, Envisioning  
 **Design & UX:** Responsive Design, UI/UX Best Practices, Accessibility Standards (WCAG), Figma, Adobe Creative Cloud, Design Thinking  
