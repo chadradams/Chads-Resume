@@ -50,7 +50,7 @@ Accomplished web development professional with 18 years of experience in full-st
 * Collaborated with cross-functional teams to align technical solutions with business requirements
 * Successfully managed remote teams across multiple time zones, ensuring seamless communication and project delivery
 * Conducted business travel to client sites for project kick-offs, stakeholder meetings, and technical workshops, including international locations
-* Assisted with CI/CD deployments using GitHub Actions.
+* Assisted with CI/CD deployments using GitHub Actions
 
 #### Principal Product Designer | July 2022 - July 2024
 * Developed responsive web applications using React and Angular that generated $8M in new business
