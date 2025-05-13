@@ -42,7 +42,7 @@ Accomplished web development professional with 18 years of experience in full-st
 
 ### Microsoft | Kansas City Metropolitan Area
 
-#### Principal Software Engineer | July 2024 - Present
+#### Principal Software Engineer - UX Engineering Lead | July 2024 - Present
 * Led development teams of 5-8 engineers implementing web-based solutions for enterprise clients
 * Architected scalable web applications using JavaScript frameworks with focus on performance optimization
 * Established coding standards, development workflows, and quality assurance processes
@@ -50,6 +50,7 @@ Accomplished web development professional with 18 years of experience in full-st
 * Collaborated with cross-functional teams to align technical solutions with business requirements
 * Successfully managed remote teams across multiple time zones, ensuring seamless communication and project delivery
 * Conducted business travel to client sites for project kick-offs, stakeholder meetings, and technical workshops, including international locations
+* Assisted with CI/CD deployments using GitHub Actions.
 
 #### Principal Product Designer | July 2022 - July 2024
 * Developed responsive web applications using React and Angular that generated $8M in new business
