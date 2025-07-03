@@ -10,11 +10,13 @@
 ---
 
 ## Professional Summary
-Seasoned UX-focused web development professional with 18 years of experience shaping intuitive, user-centric digital experiences. Adept at full-stack development, UX design, and AI integration, with a passion for creating seamless interactions that enhance usability and engagement. Proven track record of leading development teams, architecting scalable applications, and delivering impactful solutions for enterprise clients. Expertise in modern front-end frameworks, including JavaScript, HTML5, CSS3, React, and Angular, combined with a deep understanding of UX best practices, accessibility, and human-centered design. Strong consulting background, skilled in managing client relationships and delivering solutions that exceed user expectations. Certified Azure AI Engineer Associate, Azure Developer Associate, and more
+
+Principal Software Engineer with 18 years of experience building user-centric web applications and leading development teams. Combines full-stack development expertise with UX design principles to deliver scalable, accessible solutions for enterprise clients. Proven track record architecting applications that generate millions in revenue while maintaining focus on usability and performance. Certified Azure AI Engineer with experience integrating cutting-edge AI capabilities into production systems. Strong consulting background with international client engagement and cross-functional team leadership.
 
 ---
 
 ## Core Competencies
+
 - **User-Centered Design** – Creating intuitive, accessible, and engaging digital experiences  
 - **UX/UI Integration** – Bridging design and development for seamless interactions  
 - **Information Architecture** – Structuring content for clarity and usability  
@@ -42,93 +44,79 @@ Seasoned UX-focused web development professional with 18 years of experience sha
 
 ### Microsoft | Kansas City Metropolitan Area
 
-#### Principal Software Engineer | July 2024 - Present
-* Led development teams of 5-8 engineers, fostering a culture of innovation, mentorship, and user-centric problem-solving  
-* Architected scalable, high-performance applications with a strong emphasis on accessibility, usability, and responsive design  
-* Defined technical roadmaps, coding standards, and workflows that prioritize intuitive UX/UI integration and seamless functionality  
-* Championed AI-driven enhancements to improve user interactions while ensuring compliance with W3C accessibility standards  
-* Guided cross-functional collaboration between designers, engineers, and stakeholders, ensuring user needs drive technical decisions  
-* Managed remote teams across multiple time zones, optimizing communication, team dynamics, and project execution  
-* Conducted business travel for project kick-offs, stakeholder meetings, and technical workshops, including international locations  
-* Spearheaded CI/CD deployment strategies using GitHub Actions to enhance development efficiency and maintain high-quality user experiences
+#### Principal Software Engineer, ISE | July 2024 - Present
+- Leveraged extensive development background and UX expertise to lead AI engineering initiatives
+- Architect scalable web applications for enterprise clients, designing performance-optimized solutions using JavaScript/TypeScript frameworks that serve high-volume production environments
+- Collaborate with development teams of 5-10 engineers, contributing to coding standards, development workflows, and quality assurance processes that streamline remote team collaboration
+- Partner with cross-functional stakeholders to translate business requirements into technical solutions, ensuring alignment between product strategy and engineering implementation
+- Integrate cutting-edge AI capabilities into web platforms while maintaining enterprise-grade accessibility standards and technical excellence across diverse client environments
+- Represent technical expertise in client relationships, conducting business travel to international locations for project kick-offs, stakeholder meetings, and technical workshops that drive successful project outcomes
+- Implement robust CI/CD pipelines using GitHub Actions, improving deployment efficiency and code quality standards across distributed development teams
+- Coordinate technical delivery across multiple time zones, facilitating communication and project execution processes that ensure successful completion of complex enterprise initiatives
 
-#### Principal Product Designer | July 2022 - July 2024
-* Developed responsive web applications using React and Angular that generated $8M in new business
-* Created technical specifications and interactive web prototypes for development implementation
-* Managed external development vendors and provided technical guidance across departments
-* Implemented web accessibility standards (WCAG 2.1) and performance optimization techniques
-* Reduced development time by 30% through implementation of reusable component libraries
-* Coordinated with remote teams and vendors, ensuring alignment and timely delivery of project milestones
-* Traveled to client locations, including international sites, to gather requirements, present prototypes, and conduct user testing sessions
+#### Principal Product Designer, ISE | July 2022 - July 2024
+- Developed responsive web applications using React and Angular, driving $8M in new business
+- Created technical specifications and interactive prototypes to streamline development processes
+- Managed external vendors, ensuring alignment and timely delivery of project milestones
 
-#### Principal User Experience Architect | July 2019 - June 2022
-* Led technical strategy for large-scale web development projects valued at $2M+
-* Served as technical bridge between design and engineering for enterprise web applications
-* Implemented responsive design patterns ensuring consistent experience across devices
-* Mentored junior developers in JavaScript, HTML5, CSS3, and modern web frameworks
-* Established development best practices improving code quality and reducing production issues by 40%
-* Effectively managed remote development teams, maintaining high productivity and quality standards
-* Traveled to client sites for project planning, technical reviews, and deployment support, including international travel
+#### Principal User Experience Architect, ISE | July 2019 - June 2022
+- Led the technical strategy for web development projects exceeding $2M, ensuring alignment between design and engineering
+- Implemented responsive design patterns, enhancing user experience across multiple devices
+- Mentored junior developers in modern web technologies, fostering a culture of continuous learning
+- Established best practices that improved code quality, reducing production issues by 40%
 
-#### Senior User Experience Architect | June 2016 - June 2019
-* Developed complex data visualization web applications using JavaScript and D3.js
-* Built custom interactive dashboards and reporting interfaces for financial sector clients
-* Optimized web performance for data-intensive applications, improving load times by 40%
-* Collaborated with UX designers to implement responsive interfaces across desktop and mobile platforms
+#### Senior User Experience Architect, MCP | June 2016 - June 2019
+- Developed complex data visualization web applications utilizing JavaScript and D3.js, enhancing user engagement
+- Created custom interactive dashboards for financial sector clients, streamlining data reporting processes
+- Optimized web performance for data-intensive applications, achieving a 40% improvement in load times
 
-#### Associate UX Architect | July 2015 - July 2016
-* Developed functional prototypes using JavaScript frameworks (React, Angular)
-* Created reusable component libraries accelerating development workflows
-* Implemented responsive designs ensuring cross-browser and cross-device compatibility
+#### Associate UX Architect, MCP | July 2015 - July 2016
+- Developed functional prototypes using JavaScript frameworks like React and Angular, enhancing user interaction
+- Created reusable component libraries that accelerated development workflows by 30%
+- Implemented responsive designs to ensure seamless cross-browser and cross-device compatibility, improving user satisfaction
 
 ### EVERSANA INTOUCH | Overland Park, Kansas
 
 #### Web Application Architect | January 2012 - June 2015
-* Architected FDA-compliant web applications for the pharmaceutical industry using JavaScript frameworks, ensuring adherence to regulatory standards
-* Implemented responsive front-end frameworks and established development standards, enhancing user experience and development efficiency
-* Led technical implementation for 12+ enterprise web solutions with budgets ranging from $250K-$1M, delivering projects on time and within budget
-* Mentored junior developers, increasing team productivity by 25% within six months through effective training and guidance
+- Architected FDA-compliant web applications for pharmaceutical clients using modern JavaScript frameworks
+- Led technical implementation for 12+ enterprise solutions with budgets ranging from $250K-$1M
+- Mentored development team, increasing productivity by 25% through established coding standards and workflows
 
 #### Lead Web Developer | November 2010 - January 2012
-* Led a development team in creating interactive web applications for pharmaceutical sales, improving client engagement and sales performance
-* Managed development workload and project timelines for a team of 6 developers, ensuring timely delivery of high-quality solutions
-* Established coding standards, version control workflows, and quality assurance processes, resulting in a 30% reduction in bugs and issues
-* Served as acting technical director during leadership absences, maintaining project continuity and team morale
-
-### VMLY&R | Kansas City, Missouri
-
-#### Web Designer/Developer | January 2010 - November 2010
-* Developed and maintained client websites using HTML5, CSS3, and JavaScript
-* Implemented Git version control workflows for design and development assets
-* Created responsive web designs improving user engagement metrics by 35%
+- Led 6-person development team creating interactive pharmaceutical sales applications
+- Established coding standards and QA processes, reducing production bugs by 30%
+- Served as acting technical director, maintaining project continuity and team performance
 
 ---
 
 ## Education
 
 ### Quantic School of Business and Technology
-*Executive MBA, Business Administration and Management*  
+*Executive MBA, Business Administration*  
 2021 - 2022
 
+**Key Competencies:** Strategic Planning, P&L Management, Team Leadership & Development, Budget Oversight, Organizational Change Management, Cross-Functional Strategy, Talent Development, Performance Management, Business Process Optimization
+
 ### University of Central Missouri
-*Bachelor of Fine Arts (BFA), Commercial and Advertising Art*  
+*Bachelor of Fine Arts, Commercial Art*  
 2001 - 2006
 
 ---
 
 ## Certifications
 
-* Part 107 FAA sUAS Certificated Remote Pilot and Commercial Operator
-* Azure AI Engineer Associate
-* Azure Developer Associate 
-* Microsoft Certified: Azure Fundamentals
-* Microsoft Certified: Power Platform Fundamentals
-* Microsoft Certified: Dynamics 365 Fundamentals
-* Microsoft Change Agent: AI Usage Policy Nonprofit Advisor 2024
+- Azure AI Engineer Associate
+- Azure Developer Associate
+- Microsoft Certified: Azure Fundamentals
+- Microsoft Certified: Power Platform Fundamentals
+- Microsoft Certified: Dynamics 365 Fundamentals
+- FAA Part 107 Certified Remote Pilot
+- Microsoft Change Agent: AI Usage Policy Nonprofit Advisor (2024)
 
 ---
 
 ## Publications
 
-* Learning Python Data Visualization (2014)
-* Mastering JavaScript High Performance (2015)
+- **Blog:** [chadadams.com](https://chadadams.com) - Current insights on AI, UX, and enterprise development
+- **Author:** Mastering JavaScript High Performance (2015)
+- **Author:** Learning Python Data Visualization (2014)
