@@ -1,7 +1,7 @@
 # Chad Adams
 ## Principal Software Engineer & AI/UX Architect
 
-**Location:** Kansas City Metropolitan Area  
+**Location:** Kansas City Metropolitan Area, Seattle/Redmond, Chicago (Remote)  
 **Phone:** +1 (816) 808-5475  
 **Email:** chadradams@outlook.com  
 **LinkedIn:** [linkedin.com/in/chadradams](https://linkedin.com/in/chadradams)  
@@ -17,13 +17,15 @@ Principal Software Engineer with 18 years of experience building user-centric we
 
 ## Core Competencies
 
+- **Talent Development** – Building and mentoring high-performing teams  
+- **Organizational Impact** – Driving strategic initiatives across multiple divisions  
+- **Budget Management** – Overseeing project budgets and resource allocation  
 - **User-Centered Design** – Creating intuitive, accessible, and engaging digital experiences  
 - **UX/UI Integration** – Bridging design and development for seamless interactions  
 - **Information Architecture** – Structuring content for clarity and usability  
 - **Front-End Development** – Building responsive, interactive interfaces with modern frameworks  
 - **Interaction Design** – Crafting smooth, effective user flows  
 - **Agile & Iterative Development** – Collaborating within fast-paced, user-driven workflows  
-- **Usability Testing & Research** – Evaluating designs to optimize user satisfaction  
 - **Cross-Functional Collaboration** – Partnering with designers, developers, and stakeholders  
 - **Technical Architecture** – Scaling UX-friendly applications efficiently  
 - **Performance Optimization** – Enhancing speed and responsiveness for superior user experiences
@@ -42,9 +44,10 @@ Principal Software Engineer with 18 years of experience building user-centric we
 
 ## Professional Experience
 
-### Microsoft | Kansas City Metropolitan Area
+### Microsoft | 10+ Years Tenure
 
 #### Principal Software Engineer, ISE | July 2024 - Present
+*Kansas City Metropolitan Area*
 - Leveraged extensive development background and UX expertise to lead AI engineering initiatives
 - Architect scalable web applications for enterprise clients, designing performance-optimized solutions using JavaScript/TypeScript frameworks that serve high-volume production environments
 - Collaborate with development teams of 5-10 engineers, contributing to coding standards, development workflows, and quality assurance processes that streamline remote team collaboration
@@ -55,34 +58,40 @@ Principal Software Engineer with 18 years of experience building user-centric we
 - Coordinate technical delivery across multiple time zones, facilitating communication and project execution processes that ensure successful completion of complex enterprise initiatives
 
 #### Principal Product Designer, ISE | July 2022 - July 2024
+*Kansas City Metropolitan Area*
 - Developed responsive web applications using React and Angular, driving $8M in new business
 - Created technical specifications and interactive prototypes to streamline development processes
 - Managed external vendors, ensuring alignment and timely delivery of project milestones
 
 #### Principal User Experience Architect, ISE | July 2019 - June 2022
+*Kansas City Metropolitan Area*
 - Led the technical strategy for web development projects exceeding $2M, ensuring alignment between design and engineering
 - Implemented responsive design patterns, enhancing user experience across multiple devices
 - Mentored junior developers in modern web technologies, fostering a culture of continuous learning
 - Established best practices that improved code quality, reducing production issues by 40%
 
 #### Senior User Experience Architect, MCP | June 2016 - June 2019
+*Redmond, Washington*
 - Developed complex data visualization web applications utilizing JavaScript and D3.js, enhancing user engagement
 - Created custom interactive dashboards for financial sector clients, streamlining data reporting processes
 - Optimized web performance for data-intensive applications, achieving a 40% improvement in load times
 
-#### Associate UX Architect, MCP | July 2015 - July 2016
+#### User Experience Architect, MCP | July 2015 - July 2016
+*Kansas City Metropolitan Area*
 - Developed functional prototypes using JavaScript frameworks like React and Angular, enhancing user interaction
 - Created reusable component libraries that accelerated development workflows by 30%
 - Implemented responsive designs to ensure seamless cross-browser and cross-device compatibility, improving user satisfaction
 
 ### EVERSANA INTOUCH | Overland Park, Kansas
 
-#### Web Application Architect | January 2012 - June 2015
+#### Software Architect | January 2012 - June 2015
+*Overland Park, Kansas*
 - Architected FDA-compliant web applications for pharmaceutical clients using modern JavaScript frameworks
 - Led technical implementation for 12+ enterprise solutions with budgets ranging from $250K-$1M
 - Mentored development team, increasing productivity by 25% through established coding standards and workflows
 
 #### Lead Web Developer | November 2010 - January 2012
+*Overland Park, Kansas*
 - Led 6-person development team creating interactive pharmaceutical sales applications
 - Established coding standards and QA processes, reducing production bugs by 30%
 - Served as acting technical director, maintaining project continuity and team performance
@@ -105,13 +114,15 @@ Principal Software Engineer with 18 years of experience building user-centric we
 
 ## Certifications
 
-- Azure AI Engineer Associate
-- Azure Developer Associate
-- Microsoft Certified: Azure Fundamentals
-- Microsoft Certified: Power Platform Fundamentals
-- Microsoft Certified: Dynamics 365 Fundamentals
-- FAA Part 107 Certified Remote Pilot
-- Microsoft Change Agent: AI Usage Policy Nonprofit Advisor (2024)
+- **Microsoft Change Agent: AI Usage Policy Nonprofit Advisor (2024)**
+- **Microsoft Global Hackathon 2024 Participant**
+- **Azure AI Engineer Associate**
+- **Azure Developer Associate**
+- **Microsoft Certified: Azure Fundamentals**
+- **Microsoft Certified: Power Platform Fundamentals**
+- **Microsoft Certified: Dynamics 365 Fundamentals**
+- **Programming in HTML5 with JavaScript and CSS3 Specialist**
+- **FAA Part 107 Certified Remote Pilot**
 
 ---
 
