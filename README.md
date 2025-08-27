@@ -11,7 +11,7 @@
 
 ## Professional Summary
 
-Principal Software Engineer with 18 years of experience building user-centric web applications and leading development teams. Combines full-stack development expertise with UX design principles to deliver scalable, accessible solutions for enterprise clients. Proven track record architecting applications that generate millions in revenue while maintaining focus on usability and performance. Certified Azure AI Engineer with experience integrating cutting-edge AI capabilities into production systems. Strong consulting background with international client engagement and cross-functional team leadership.
+Principal Software Engineer with 19 years of experience building user-centric web applications and leading development teams. Combines full-stack development expertise with UX design principles to deliver scalable, accessible solutions for enterprise clients. Proven track record architecting applications that generate millions in revenue while maintaining focus on usability and performance. Certified Azure AI Engineer with experience integrating cutting-edge AI capabilities into production systems. Strong consulting background with international client engagement and cross-functional team leadership.
 
 ---
 
