@@ -1,7 +1,7 @@
 # Chad Adams
-## Principal Software Engineer & AI/UX Architect
+## Principal Software Engineer
 
-**Location:** Kansas City Metropolitan Area, Seattle/Redmond, Chicago (Remote)  
+**Location:** Kansas City Metropolitan Area, United States (Remote)  
 **Phone:** +1 (816) 808-5475  
 **Email:** chadradams@outlook.com  
 **LinkedIn:** [linkedin.com/in/chadradams](https://linkedin.com/in/chadradams)  
