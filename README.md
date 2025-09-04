@@ -1,7 +1,7 @@
 # Chad Adams
 ## Principal Software Engineer
 
-**Location:** Kansas City Metropolitan Area, United States (Remote)  
+**Location:** Kansas City Metropolitan Area, United States (Remote; willing to relocate to Chicago, IL; available on-site in KC)  
 **Phone:** +1 (816) 808-5475  
 **Email:** chadradams@outlook.com  
 **LinkedIn:** [linkedin.com/in/chadradams](https://linkedin.com/in/chadradams)  
