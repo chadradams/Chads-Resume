@@ -1,5 +1,5 @@
 # Chad Adams
-## Principal Software Engineer
+## Principal AI Software Engineer
 
 **Location:** Kansas City Metropolitan Area, United States (Remote; willing to relocate to Chicago, IL; available on-site in KC)  
 **Phone:** 816-808-5475
@@ -59,7 +59,7 @@ Principal AI & Platform Engineer (19 years, Executive MBA) architecting enterpri
 
 ### Microsoft | 2015 - Present (10+ years)
 
-#### Principal AI Engineer | July 2023 - Present
+#### Principal AI Software Engineer | July 2023 - Present
 *Kansas City Metropolitan Area*
 - Architect AI applications integrating OpenAI and Azure OpenAI Service APIs, building intelligent automation systems that serve Fortune 500 clients processing 50M+ API calls monthly and generating $8M in new business revenue
 - Engineer multi-intent orchestration systems handling complex conversation flows with context preservation, dynamic intent classification, and state management across 5 intent categories, improving task completion rates by 35% and reducing conversation abandonment
