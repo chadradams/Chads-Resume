@@ -11,7 +11,7 @@
 
 ## Professional Summary
 
-Principal Software Engineer with 19 years of experience architecting enterprise-scale applications and driving technical innovation. Expert in full-stack development, cloud architecture, and AI/ML integration with proven ability to design systems that handle high-volume production workloads and generate millions in revenue. Certified Azure AI Engineer specializing in scalable web applications, performance optimization, and cutting-edge AI implementations. Strong technical leadership background with extensive experience mentoring engineering teams and establishing development best practices. Unique combination of deep technical expertise and user experience insight that drives both engineering excellence and business value.
+Principal AI & Platform Engineer (19 years) delivering large-scale GenAI, retrieval, and multi-agent systems with production-grade observability, governance, and cost efficiency. Architect end-to-end RAG (100TB+ corpora), vector search, and evaluation pipelines powering high-volume (50M+ calls/mo) workloads. Blend deep Azure-first cloud architecture with advanced cross-platform UX engineering to ship performant, safe, and adoptable AI products. Implement Responsible AI governance (risk assessments, policy enforcement, PII safeguards, red-teaming, drift & hallucination monitoring) and LLM cost optimization (token budgeting, adaptive model routing, prompt compression, embedding reuse) reducing spend while maintaining accuracy (precision@k 0.95). Proven leader establishing LLMOps standards accelerating feature throughput and lowering production defects.
 
 ---
 
@@ -25,8 +25,9 @@ Principal Software Engineer with 19 years of experience architecting enterprise-
 - **Performance Optimization** – Enhancing system speed, scalability, and responsiveness  
 - **DevOps & CI/CD** – Implementing robust deployment pipelines and automation workflows  
 - **Cross-Platform Development** – Native iOS, web, and mobile application architecture  
-- **Enterprise Integration** – Designing solutions for complex business requirements and compliance  
-- **Database Design & Optimization** – Core Data, SQL, and NoSQL performance tuning  
+- **Enterprise Integration** – Designing solutions for complex business requirements and compliance
+- **Governance & Risk Management** – Responsible AI, policy controls, evaluation & guardrails  
+- **LLM Cost Optimization** – Token efficiency, model routing, caching, prompt compression  
 - **Code Quality & Standards** – Establishing coding practices that reduce production issues  
 - **User-Informed Engineering** – Leveraging UX principles to enhance technical decision-making
 
@@ -34,15 +35,16 @@ Principal Software Engineer with 19 years of experience architecting enterprise-
 
 ## Technical Skills
 
-**Languages:** JavaScript, HTML5, CSS3, Python, TypeScript, C#, Swift, Objective-C
+**Languages:** JavaScript, HTML5, CSS3, Python, TypeScript, C#, Swift, Objective-C  
 **AI/ML Frameworks:** LangChain, Langgraph, Semantic Kernel, AutoGen, OpenAI API, Azure OpenAI Service  
 **Web Frameworks & Libraries:** React, Angular, Node.js, FastAPI, Flask  
 **AI/ML Tools:** Azure AI Studio, Azure AI Services, RAG (Retrieval Augmented Generation), Prompt Engineering  
 **Vector & Graph Databases:** CosmosDB (Vector Search), Azure Cognitive Search  
 **Cloud & Data:** Azure, AWS, Azure Container Registry, AKS (collaboration), CI/CD, Docker  
-**Data Visualization:** PowerBI, D3.js
-**Observability & Monitoring:** OpenTelemetry, Azure App Insights, Performance Monitoring, Azure Workbooks 
-**Development Tools:** Git, GitHub, Azure DevOps, Visual Studio, Visual Studio Code, Xcode (TestFlight / App Store Connect distribution)
+**Data Visualization:** PowerBI, D3.js  
+**Observability & Monitoring:** OpenTelemetry, Azure App Insights, Performance Monitoring, Azure Workbooks  
+**LLMOps & Governance:** Multi-Agent Orchestration, Model Routing, Guardrails (toxicity/hallucination filters), Prompt Versioning, Evaluation Harnesses, Cost Optimization (token budgeting, caching, embedding reuse), Responsible AI, Risk & Compliance, Red-Teaming  
+**Development Tools:** Git, GitHub, Azure DevOps, Visual Studio, Visual Studio Code, Xcode (TestFlight / App Store Connect distribution)  
 **Methodologies:** Agile, Scrum, Kanban, DevOps, Test-Driven Development, AI Safety & Governance, Responsible AI  
 **Design & UX:** Responsive Design, UI/UX Best Practices, Accessibility Standards (WCAG), Figma, draw.io, Adobe Creative Cloud, Design Thinking
 
@@ -55,14 +57,16 @@ Principal Software Engineer with 19 years of experience architecting enterprise-
 #### Principal AI Engineer | July 2023 - Present
 *Kansas City Metropolitan Area*
 - Architect AI applications integrating OpenAI and Azure OpenAI Service APIs, building intelligent automation systems that serve Fortune 500 clients processing 50M+ API calls monthly and generating $8M in new business revenue
-- Build cross-platform chat interfaces across web (React/Next.js) and Apple platforms (SwiftUI), delivering unified multimodal user experience
+- Build cross-platform AI chat interfaces (React/Next.js + SwiftUI for iOS/iPadOS/visionOS/macOS) with session persistence, prompt template versioning, and evaluation-informed UX improvements driving +22% task completion
+- Orchestrate multi-agent systems (Azure AI Studio, Semantic Kernel, AutoGen) with role specialization, tool routing, guardrails (toxicity/hallucination suppression), and shared memory, automating workflows and reducing manual processing time 55%
 - Design multi-modal vector search and RAG systems using CosmosDB and LangChain, enabling semantic similarity matching across 100TB+ of documents with 95% accuracy for knowledge retrieval platforms serving 500,000+ users
 - Develop backend APIs: Python (FastAPI) microservices for RAG ingestion/orchestration and C# .NET REST endpoints integrating AI capabilities into existing enterprise systems
+- Implement LLM cost optimization (adaptive model routing gpt-4o/gpt-4o-mini, prompt compression, embedding reuse, response caching) reducing per-request token cost 32% while sustaining precision@k 0.95
 - Build AI agents using Azure AI Studio, Semantic Kernel, and AutoGen, creating multi-agent systems for intelligent automation and process optimization across enterprise workflows
 - Engineer containerized AI deployment workflows using Azure Container Registry and Docker, reducing system deployment time from weeks to hours while maintaining 99.9% uptime
 - Manage iOS/iPadOS/visionOS/macOS build distribution via TestFlight (beta rollout cadence, crash log triage, structured user feedback), streamlining iteration cycles and accelerating UX refinement
-- Implement comprehensive monitoring and observability using OpenTelemetry and Azure App Insights, tracking performance, latency, and error rates across distributed environments with automated alerting
-- Design AI safety frameworks and responsible AI governance practices, ensuring compliance with security standards and ethics guidelines across international deployments
+- Implement comprehensive monitoring and observability using OpenTelemetry and Azure App Insights, tracing LLM latency, token usage, and guardrail outcomes with automated anomaly alerting
+- Design AI safety frameworks and Responsible AI governance: risk assessments, policy enforcement, PII scrubbing, red-teaming simulations, hallucination & drift monitoring dashboards
 - Lead technical teams of 5-10 engineers in AI/ML implementation strategies, establishing coding standards for prompt engineering that reduced production issues by 35%
 - Develop AI roadmaps and technology strategy, evaluating emerging technologies to guide adoption decisions across 15+ business units with $50M+ annual investments
 - Drive cross-functional collaboration with data science teams, product managers, and stakeholders, aligning AI initiatives with strategic objectives and governance frameworks
@@ -74,42 +78,37 @@ Principal Software Engineer with 19 years of experience architecting enterprise-
 
 #### Principal Solution Architect, UX | July 2019 - June 2023
 *Kansas City Metropolitan Area*
-- Architected technical strategy for web development projects exceeding $2M, designing scalable solutions that aligned engineering implementation with business requirements
-- Engineered responsive design systems and component libraries, optimizing user experience delivery across multiple device platforms and browser environments
-- Built executive-level data visualization dashboards using PowerBI and D3.js, transforming complex technical metrics into actionable business insights for stakeholder decision-making and project ROI tracking
-- Led technical mentorship for development teams, implementing modern web technologies and engineering best practices that fostered continuous learning and improved code quality
-- Established development standards and quality assurance processes that reduced production issues by 40%, streamlining deployment workflows and system reliability
+- Directed $2M+ web platform portfolio; aligned UX architecture with business OKRs
+- Led enterprise design system & component library adoption improving release velocity and multi-device consistency
+- Built executive analytics (PowerBI/D3) translating engineering & product KPIs into ROI dashboards
+- Instituted quality & delivery standards cutting production defects 40% and accelerating onboarding
 
 #### Senior Solution Architect, UX | June 2016 - June 2019
 *Redmond, Washington*
-- Engineered complex data visualization web applications utilizing JavaScript and D3.js, building interactive dashboards that processed large datasets for enhanced user engagement
-- Architected custom interactive dashboards for financial sector clients using PowerBI and D3.js, implementing data processing solutions that streamlined reporting workflows and reduced manual processes by 50%
-- Prototyped supportive backend services using Flask to rapidly deliver data endpoints for new visualization features
-- Optimized web application performance for data-intensive operations, implementing caching strategies and code optimization that achieved 40% improvement in load times
-- Designed and implemented responsive web architectures ensuring seamless cross-platform compatibility and scalable user interface delivery
+- Delivered high-complexity financial data visualization suites (JavaScript/D3) reducing manual reporting effort 50%
+- Built rapid Flask service prototypes to unblock visualization feature delivery
+- Tuned front-end performance (caching/code splits) achieving 40% faster load times on data-heavy views
+- Established responsive architecture patterns later scaled organization-wide
 
 #### Associate Architect, UX | July 2015 - July 2016
 *Kansas City Metropolitan Area*
-- Engineered functional prototypes using JavaScript frameworks including React and Angular, implementing interactive user interfaces that enhanced client engagement and system usability
-- Architected reusable component libraries and development frameworks that accelerated engineering workflows by 30%, establishing coding standards that improved team productivity
-- Implemented responsive web architectures ensuring seamless cross-browser and cross-device compatibility, optimizing performance across multiple platform environments
-- Designed scalable front-end systems that improved user satisfaction metrics while maintaining code quality and technical excellence standards
+- Produced advanced interactive prototypes (React/Angular) validating UX and architecture early in cycles
+- Created reusable UI/component foundations improving team throughput 30%
+- Formalized front-end standards & cross-browser strategy improving stability pre-scale
 
 ### EVERSANA INTOUCH | Overland Park, Kansas
 
 #### iOS Software Architect | January 2012 - June 2015
 *Overland Park, Kansas*
-- Led delivery of 12+ FDA/HIPAA-compliant enterprise iOS apps (Objective-C transitioning to early Swift) with secure offline synchronization (budgets $250K–$1M)
-- Built reusable custom UI component frameworks (Storyboards + selective programmatic layouts) accelerating feature delivery; mentored team (+25% productivity)
-- Optimized Core Data models and caching/background sync patterns improving performance stability under large data sets
-- Established coding and compliance standards ensuring consistent regulatory review and release readiness
+- Delivered 12+ FDA/HIPAA-compliant offline-first enterprise iOS apps (Objective-C -> early Swift) with secure sync architecture (budgets $250K–$1M)
+- Built reusable UI/component & persistence frameworks (offline caching layers) boosting delivery velocity +25%
+- Drove performance, compliance, and code standards (background sync, release readiness) leveraging Subversion (SVN) & TFS to improve stability at scale
 
 #### Lead iOS Developer | November 2010 - January 2012
 *Overland Park, Kansas*
-- Built Objective-C iPad/iPhone pharma sales apps with native UI (Storyboards) enabling offline-first field workflows
-- Implemented coding standards, unit testing, and peer review processes reducing production bugs by 30%
-- Refactored legacy modules to improve stability and maintain continuity across multiple iOS release cycles
-- Partnered with design and regulatory stakeholders to align UI flows with compliance requirements
+- Developed offline-first iPad/iPhone sales enablement apps (Objective-C, Storyboards) accelerating field productivity
+- Instituted coding standards, unit tests, peer reviews (Subversion SVN workflows) cutting production defects 30%
+- Refactored legacy modules across iOS releases and aligned UX with regulatory expectations (foundation for later TFS transition)
 
 ---
 
