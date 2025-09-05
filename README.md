@@ -171,6 +171,7 @@ Core expertise in Azure-first cloud architecture, multi-modal AI (vision/speech/
 ## Certifications
 
 - **Microsoft Change Agent: AI Usage Policy Nonprofit Advisor (2024)**
+- **Microsoft Global Hackathon 2025 Participant**
 - **Microsoft Global Hackathon 2024 Participant**
 - **Azure AI Engineer Associate**
 - **Azure Developer Associate**
