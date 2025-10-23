@@ -1,5 +1,5 @@
 # Chad Adams
-## Principal AI Software Engineer
+## Principal Software Engineer, Frontend
 
 **Location:** Kansas City Metropolitan Area, United States (Remote; willing to relocate to Chicago, IL; available on-site in KC)  
 **Phone:** 816-808-5475
@@ -69,11 +69,12 @@ Core expertise in Azure-first cloud architecture, multi-modal AI (vision/speech/
 
 ### Microsoft | 2015 - Present (10+ years)
 
-#### Principal AI Software Engineer | July 2023 - Present
+#### Principal Software Engineer, Frontend | July 2023 - Present
 *Kansas City Metropolitan Area*
+- Build cross-platform AI chat interfaces (React/Next.js + SwiftUI for iOS/iPadOS/visionOS/macOS) with session persistence, prompt template versioning, and evaluation-informed UX improvements driving +22% task completion
+- Manage iOS/iPadOS/visionOS/macOS build distribution via TestFlight (beta rollout cadence, crash log triage, structured user feedback), streamlining iteration cycles and accelerating UX refinement
 - Architect AI applications integrating OpenAI and Azure OpenAI Service APIs, building intelligent automation systems that serve Fortune 500 clients processing 50M+ API calls monthly and generating $8M in new business revenue
 - Engineer multi-intent orchestration systems handling complex conversation flows with context preservation, dynamic intent classification, and state management across 5 intent categories, improving task completion rates by 35% and reducing conversation abandonment
-- Build cross-platform AI chat interfaces (React/Next.js + SwiftUI for iOS/iPadOS/visionOS/macOS) with session persistence, prompt template versioning, and evaluation-informed UX improvements driving +22% task completion
 - Orchestrate multi-agent systems (Azure AI Studio, Semantic Kernel, AutoGen) with role specialization, tool routing, guardrails (toxicity/hallucination suppression), and shared memory, automating workflows and reducing manual processing time 55%
 - Design multi-modal vector search and RAG systems using CosmosDB and LangChain, enabling semantic similarity matching across 100TB+ of documents with 95% accuracy for knowledge retrieval platforms serving 100,000+ users
 - Develop backend APIs: Python (FastAPI) microservices for RAG ingestion/orchestration and C# .NET REST endpoints integrating AI capabilities into existing enterprise systems
@@ -82,7 +83,6 @@ Core expertise in Azure-first cloud architecture, multi-modal AI (vision/speech/
 - Design event-driven AI pipelines using Apache Kafka for real-time data streaming between multi-agent systems, enabling asynchronous processing of 1M+ events/day with guaranteed message delivery and replay capabilities
 - Build AI agents using Azure AI Studio, Semantic Kernel, and AutoGen, creating multi-agent systems for intelligent automation and process optimization across enterprise workflows
 - Engineer containerized AI deployment workflows using Azure Container Registry and Docker, reducing system deployment time from weeks to hours while maintaining 99.9% uptime
-- Manage iOS/iPadOS/visionOS/macOS build distribution via TestFlight (beta rollout cadence, crash log triage, structured user feedback), streamlining iteration cycles and accelerating UX refinement
 - Implement comprehensive monitoring and observability using OpenTelemetry and Azure App Insights, tracing LLM latency, token usage, and guardrail outcomes with automated anomaly alerting
 - Design AI safety frameworks and Responsible AI governance: risk assessments, policy enforcement, PII scrubbing, red-teaming simulations, hallucination & drift monitoring dashboards
 - Co-lead AI/ML implementation strategies with cross-functional teams of 5-10 engineers, establishing coding standards for prompt engineering that reduced production issues by 35%
