@@ -1,7 +1,7 @@
 Chad Adams
 Principal Frontend Engineer & AI Platform Architect
 (816) 808-5475 | chadradams@outlook.com | Kansas City Metropolitan Area
-LinkedIn: www.linkedin.com/in/chadradams | Portfolio: chadadams.com
+LinkedIn: www.linkedin.com/in/chadradams | Blog: chadadams.com
 
 PROFESSIONAL SUMMARY
 
