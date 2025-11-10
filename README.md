@@ -16,7 +16,7 @@ Leadership: AI & UX Strategy, Executive Communication, Team Mentorship, Stakehol
 
 PROFESSIONAL EXPERIENCE
 
-Microsoft (10 years 5 months)
+Microsoft
 
 Principal Software Engineer - AI Platform & Frontend Architecture (July 2023 - Present)
 * Scaled AI platforms to process over 50 million API calls monthly, generating $8M in revenue via Azure OpenAI integrations.
@@ -42,7 +42,7 @@ Associate Architect - Frontend Engineering & Prototyping (July 2015 - July 2016)
 * Created responsive web prototypes (React, Angular) to accelerate user validation.
 * Developed reusable component libraries, improving development velocity by 30%.
 
-EVERSANA INTOUCH (4 years 8 months)
+EVERSANA INTOUCH
 
 Software Architect, iOS (January 2012 - June 2015)
 * Delivered over a dozen FDA and HIPAA-compliant enterprise iOS applications ($250K - $1M budgets).
