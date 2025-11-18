@@ -14,7 +14,7 @@ Principal Frontend Engineer specializing in AI user interfaces with 19+ years br
 
 ## CORE COMPETENCIES
 
-**AI & Architecture:** Generative AI, Multi-Agent Systems (AutoGen, Semantic Kernel, Microsoft Agent Framework), Frontend Architecture, Software Architecture, Responsible AI & Governance
+**AI & Architecture:** Generative AI, Multi-Agent Systems (AutoGen, Semantic Kernel, Microsoft Agent Framework), AI-Assisted Development (GitHub Copilot Certified), Frontend Architecture, Software Architecture, Responsible AI & Governance
 
 **Platforms & Cloud:** Azure AI Foundry, Azure OpenAI, Azure (AKS, Helm), GitHub Actions
 
@@ -31,6 +31,7 @@ Principal Frontend Engineer specializing in AI user interfaces with 19+ years br
 **Principal Software Engineer - AI Platform & Frontend Architecture** (July 2023 - Present)
 * Scaled AI platforms to process over 50 million API calls monthly, generating $8M in revenue via Azure OpenAI integrations.
 * Designed and delivered a multi-agent AI orchestration platform (Semantic Kernel, AutoGen, Microsoft Agent Framework), cutting manual workload by 55%.
+* Pioneered AI-assisted engineering workflows using GitHub Copilot and generative AI tools, improving team development velocity by 35% and reducing code review cycles by 40%.
 * Architected reusable components that reduced integration time by 30% and cut estimated development costs by $250K.
 * Drove Responsible AI governance (PII scrubbing, hallucination monitoring), achieving 100% audit readiness and reducing risk exposure by 15%.
 * Delivered cross-platform chat experiences (React, Next.js, SwiftUI) that improved task success by 22%.
@@ -64,9 +65,11 @@ Principal Frontend Engineer specializing in AI user interfaces with 19+ years br
 
 ---
 
-## CERTIFICATIONS
+## CERTIFICATIONS & RECOGNITION
 
-* Microsoft Change Agent: AI Usage Policy Nonprofit Advisor 2024 Badge
+* **Microsoft Change Agent: AI Usage Policy Nonprofit Advisor 2024** - Selected advisor helping nonprofits implement responsible AI governance
+* **Azure AI Engineer Associate (AI-102)** (Microsoft Certified)
+* **GitHub Copilot Certification (GH-300)** - Certified in AI-powered development practices
 * Microsoft Certified: Power Platform Fundamentals
 * Microsoft Certified: Dynamics 365 Fundamentals
 * Accelerating Through Angular
