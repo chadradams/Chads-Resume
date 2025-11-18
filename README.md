@@ -14,7 +14,7 @@ Principal Frontend Engineer specializing in AI user interfaces with 19+ years br
 
 ## CORE COMPETENCIES
 
-**AI & Architecture:** Generative AI, Multi-Agent Systems (AutoGen, Semantic Kernel, Microsoft Agent Framework), AI-Assisted Development (GitHub Copilot Certified), Frontend Architecture, Software Architecture, Responsible AI & Governance
+**AI & Architecture:** Generative AI, Multi-Agent Systems (AutoGen, Semantic Kernel, Microsoft Agent Framework), AI-Assisted Development (GitHub Copilot Certified), Digital Twin Modeling, Geospatial Data Capture & Photogrammetry, Frontend Architecture, Software Architecture, Responsible AI & Governance
 
 **Platforms & Cloud:** Azure AI Foundry, Azure OpenAI, Azure (AKS, Helm), GitHub Actions
 
@@ -42,6 +42,7 @@ Principal Frontend Engineer specializing in AI user interfaces with 19+ years br
 * Established delivery and quality standards that reduced production defects by 40%.
 * Translated technical KPIs into ROI-focused insights for leadership using executive dashboards (Power BI, D3.js).
 * Partnered with leadership to define enterprise adoption standards for AI Governance and Ethics frameworks.
+* Integrated Part 107 drone photogrammetry and sensor telemetry workflows into digital twin data pipelines, enabling higher-fidelity spatial modeling and automated asset inspection simulations.
 
 **Senior Solution Architect - Data Visualization & UX** (June 2016 - June 2019)
 * Developed complex, data-intensive visualization applications (JavaScript, D3.js) for financial clients.
@@ -67,13 +68,13 @@ Principal Frontend Engineer specializing in AI user interfaces with 19+ years br
 
 ## CERTIFICATIONS & RECOGNITION
 
-* **Microsoft Change Agent: AI Usage Policy Nonprofit Advisor 2024** - Selected advisor helping nonprofits implement responsible AI governance
-* **Azure AI Engineer Associate (AI-102)** (Microsoft Certified)
-* **GitHub Copilot Certification (GH-300)** - Certified in AI-powered development practices
-* Microsoft Certified: Power Platform Fundamentals
-* Microsoft Certified: Dynamics 365 Fundamentals
-* Accelerating Through Angular
-* Accessibility in Action
+* GitHub Copilot Certification (GH-300)
+* Azure AI Engineer Associate (AI-102)
+* Azure Developer Associate (AZ-204)
+* Microsoft Change Agent: AI Usage Policy Nonprofit Advisor (2025, 2024)
+* Microsoft Global Hackathon (2025, 2024) – combine
+* Accessibility in Action (Sep 2019) (kept for accessibility credibility)
+* FAA Part 107 Remote Pilot (Jan 2024) – Applied aerial photogrammetry + sensor capture to generate geospatial datasets feeding digital twin simulations
 
 ---
 
