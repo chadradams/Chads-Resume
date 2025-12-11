@@ -1,76 +1,54 @@
-# Chad Adams
-**Principal Frontend Engineer & AI Platform Architect**
+Chad Adams
+Kansas City Metropolitan Area   |   816-808-5475   |   chadradams@outlook.com
+linkedin.com/in/chadradams   |   chadadams.com   |   AI Engineer @ Microsoft
 
-(816) 808-5475 | chadradams@outlook.com | Kansas City Metropolitan Area  
-LinkedIn: linkedin.com/in/chadradams | Blog: chadadams.com
+Professional Summary
+Product-focused Principal Software Engineer and AI Platform Architect at Microsoft with 10+ years scaling multi-agent AI systems for Fortune 100 and global enterprises. Expert in Azure OpenAI, RAG, React/Next.js frontends, responsible AI governance, and high-performance UX. Proven track record shipping production systems that generate millions in revenue and cut resolution times 22–60 %.
 
-## Professional Summary
-Principal Frontend Engineer with 19+ years specializing in AI user interfaces, architecture, and UX. Expertise in scaling AI platforms (50M+ API calls/month), leading Responsible AI initiatives, and delivering cross-platform experiences using React, Angular, TypeScript, and SwiftUI. Proven in generative AI, multi-agent systems, and AI-assisted development to drive revenue and efficiency.
+Technical Skills
+Azure OpenAI • LangChain • RAG • Retrieval-Augmented Generation • React • Next.js • TypeScript • Fluent UI • SwiftUI • Transformers.js • Power Platform • Power BI • D3.js • Apache ECharts • Terraform • Responsible AI • WCAG/508 Accessibility • Multi-Cloud Architecture
 
-## Core Competencies
-- **AI & Architecture:** Generative AI, Multi-Agent Systems (AutoGen, Semantic Kernel, Microsoft Agent Framework), AI-Assisted Development (GitHub Copilot, Figma MCP), Digital Twin Modeling, Geospatial Data & Photogrammetry, Frontend/Software Architecture, Responsible AI Governance
-- **Platforms & Cloud:** Azure AI Foundry, Azure OpenAI, Azure (AKS, Helm), GitHub Actions
-- **Frontend & UX:** React, Angular, TypeScript, Next.js, SwiftUI, iOS, UX Engineering, Data Visualization (Apache ECharts, D3.js, Power BI)
-- **Leadership:** AI/UX Strategy, Executive Communication, Team Mentorship, Stakeholder Alignment
+Professional Experience
 
-## Professional Experience
+Microsoft                                                                 Kansas City, MO
+Principal Software Engineer – AI Platform & Frontend Architecture            Jul 2023 – Present
+- Promoted to lead multi-agent AI platform architecture after scaling Kraft Heinz supply-chain AI solution to 50 M+ monthly API calls and $8 M+ annualized revenue
+- Own public customer-facing agentic frontends for Kraft Heinz, MetLife Pet Insurance, and additional Fortune-100 clients
+- Ship consumer and enterprise UIs (React + Next.js + SwiftUI) delivering 22–38 % faster issue resolution
+- Designed in-browser Edge-AI classification (Transformers.js + WebAssembly) reducing external API calls 18–34 %
+- Architected confidential multi-cloud (Azure + GCP + AWS) multi-agent system over private interconnects for Latin-American Fortune-100 banking customer (live in production)
+- Championed Responsible AI governance achieving 100 % audit-ready systems and 15 % risk-surface reduction
 
-### Microsoft
-**Principal Software Engineer - AI Platform & Frontend Architecture**  
-July 2023 - Present  
-- Scaled AI platforms to handle 50M+ API calls monthly, generating $8M revenue via Azure OpenAI integrations.  
-- Designed multi-agent AI orchestration platform (Semantic Kernel, AutoGen, Microsoft Agent Framework), reducing manual workload by 55%.  
-- Implemented AI-assisted workflows with GitHub Copilot and Figma MCP, boosting development velocity by 35% and cutting code reviews by 40%.  
-- Architected reusable components, reducing integration time by 30% and saving $250K in development costs.  
-- Led Responsible AI governance (PII scrubbing, hallucination monitoring), ensuring 100% audit readiness and 15% risk reduction.  
-- Delivered cross-platform chat experiences (React, Next.js, SwiftUI), improving task success by 22%.  
-- Optimized infrastructure (AKS, Helm, GitHub Actions), achieving 60% faster deployments and 32% lower LLM costs.  
+Principal / Senior Solution Architect – AI, UX Strategy & Data Visualization   Jul 2015 – Jun 2023
+- Promoted twice while owning enterprise UX and emerging-AI strategy for financial services and manufacturing customers
+- Managed $2 M+ design-system portfolio; established standards that reduced defects 40 % and accelerated executive OKR alignment
+- Built high-performance executive dashboards (Power BI, D3.js, Apache ECharts) driving multi-million-dollar decisions
+- Designed and shipped MetLife Pet Insurance mobile app (SwiftUI + Azure backend, publicly launched 2023) serving 100 K+ pet parents
+- Led Kraft Heinz global supply-chain AI platform from prototype (2021) through worldwide rollout
 
-**Principal Solution Architect - AI & UX Strategy**  
-July 2019 - June 2023  
-- Managed $2M+ enterprise platform portfolio, aligning design systems with business OKRs.  
-- Established delivery standards, reducing production defects by 40%.  
-- Created executive dashboards (Power BI, D3.js) to translate KPIs into ROI insights.  
-- Defined AI Governance and Ethics standards in partnership with leadership.  
-- Integrated Part 107 drone photogrammetry into digital twin pipelines for enhanced spatial modeling and asset inspections.  
+EVERSANA INTOUCH                                                          Overland Park, KS
+Software Architect (iOS)                                                Nov 2010 – Jun 2015
+- Delivered 12+ FDA- and HIPAA-compliant iOS apps for pharmaceutical clients ($250 K–$1 M budgets each)
+- Defined UI/data architecture standards that improved delivery velocity 25 % and reduced defects 30 %
 
-**Senior Solution Architect - Data Visualization & UX**  
-June 2016 - June 2019  
-- Built data-intensive visualization apps (JavaScript, D3.js) for financial clients.  
-- Improved load performance by 40% and streamlined analytics workflows.  
+Education
+Quantic School of Business and Technology                              Remote
+Executive MBA, Business Administration and Management                  2021 – 2022
 
-**Associate Architect - Frontend Engineering & Prototyping**  
-July 2015 - July 2016  
-- Developed responsive prototypes (React, Angular) for rapid user validation.  
-- Built reusable component libraries, increasing development velocity by 30%.  
+University of Central Missouri                                         Warrensburg, MO
+Bachelor of Fine Arts, Commercial and Advertising Art                  2001 – 2006
 
-### EVERSANA INTOUCH
-**Software Architect, iOS**  
-January 2012 - June 2015  
-- Delivered 12+ FDA/HIPAA-compliant iOS apps ($250K-$1M budgets).  
-- Set architectural standards for UI/data frameworks, improving delivery speed by 25%.  
+Certifications (selected)
+- Microsoft AI Nonprofit Advisor AI Skills (4 badges) – 2025
+- GitHub Copilot Certified – expires 2027
+- Microsoft Global Hackathon Winner – 2024 & 2025
+- Microsoft Certified: Azure AI Engineer Associate
+- Microsoft Certified: Azure Developer Associate
+- FAA Part 107 Commercial Drone Pilot
 
-**iOS Developer**  
-November 2010 - January 2012  
-- Built offline-first iPad/iPhone sales apps.  
-- Introduced coding/testing standards, reducing defects by 30%.  
+Publications
+- Mastering JavaScript High Performance          Packt Publishing, 2015
+- Learning Python Data Visualization             Packt Publishing, 2014
 
-## Certifications & Recognition
-- GitHub Copilot Certification (GH-300)  
-- Azure AI Engineer Associate (AI-102)  
-- Azure Developer Associate (AZ-204)  
-- Microsoft Change Agent: AI Usage Policy Nonprofit Advisor (2024-2025)  
-- Microsoft Global Hackathon Participant (2024-2025)  
-- Accessibility in Action (Sep 2019)  
-- FAA Part 107 Remote Pilot (Jan 2024) – Applied to geospatial data for digital twin simulations  
-
-## Publications
-- Learning Python Data Visualization  
-- Mastering JavaScript High Performance  
-
-## Education
-**Executive MBA**, Business Administration and Management  
-Quantic School of Business and Technology (2021-2022)  
-
-**Bachelor of Fine Arts (BFA)**, Commercial and Advertising Art  
-University of Central Missouri (2001-2006)
+Languages
+English (Native)
