@@ -1,4 +1,3 @@
-
 CHAD ADAMS
 Weatherby Lake, Missouri
 chadradams@outlook.com | 816-808-5475
