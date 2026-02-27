@@ -2,7 +2,7 @@
 CHAD ADAMS
 Weatherby Lake, Missouri
 chadradams@outlook.com | 816-808-5475
-LinkedIn: linkedin.com/in/chadradams
+LinkedIn: https://linkedin.com/in/chadradams
 
 PROFESSIONAL SUMMARY
 Multidisciplinary Engineering Leader and Principal Software Engineer with 15+ years of hands-on software engineering experience and 5+ years of recurring, temporary people-management responsibility leading engineers across software engineering, UX, and applied AI within Microsoft’s Industry Solutions Engineering (ISE) organization. Proven player-coach delivering high-impact, customer co-developed cloud and AI solutions while providing career coaching, performance feedback, and delivery leadership at scale. Deep experience with portfolio leadership, Responsible AI, reusable engineering patterns, and cross-discipline collaboration with customers, Microsoft product teams, and open-source communities.
